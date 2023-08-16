@@ -4,6 +4,7 @@
     text-align: center;
     padding: 2.5em 2em;
 }
+
 .banner__texto{
     font-weight: 500;
     margin: 1em 0;
@@ -19,9 +20,9 @@
 }
 
 .banner__pesquisa::placeholder{
-    font-family: var(--font-principal);
+    font-family: var(--fonte-principal);
     font-size: 14px;
-    font-weight:  400;
+    font-weight: 400;
     text-align: center;
     color: var(--branco);
     background: url(./Lupa.svg) no-repeat;
